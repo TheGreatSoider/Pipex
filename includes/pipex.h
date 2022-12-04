@@ -13,7 +13,7 @@
 #ifndef PIPEX_H
 # define PIPEX_H
 
-# include "../../Libft/libft.h"
+# include "../../42_Libft/libft.h"
 # include <unistd.h>
 # include <stdio.h>
 # include <fcntl.h>
