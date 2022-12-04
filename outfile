@@ -1,0 +1,8 @@
+total 24
+drwxrwxrwx 1 root root  4096 Dec  5 01:58 Libft
+-rwxrwxrwx 1 root root  2312 Dec  5 01:54 Makefile
+drwxrwxrwx 1 root root  4096 Dec  5 01:52 includes
+-rwxrwxrwx 1 root root    14 Dec  5 01:59 infile
+-rwxrwxrwx 1 root root     0 Dec  5 01:59 outfile
+-rwxrwxrwx 1 root root 18368 Dec  5 01:58 pipex
+drwxrwxrwx 1 root root  4096 Dec  5 01:52 srcs
