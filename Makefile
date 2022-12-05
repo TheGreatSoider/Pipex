@@ -6,7 +6,7 @@
 #    By: cocheong <cocheong@student.42kl.my>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/11/30 14:46:37 by cocheong          #+#    #+#              #
-#    Updated: 2022/11/30 14:46:37 by cocheong         ###   ########.fr        #
+#    Updated: 2022/12/05 11:41:29 by cocheong         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -28,7 +28,7 @@ OBJS_DIR = objs/
 OBJS_M = $(SRCS:.c=.o)
 OBJS_M_PREFIXED = $(addprefix $(OBJS_DIR), $(OBJS_M))
 
-LIBFT_DIR = Libft/
+LIBFT_DIR = 42_Libft/
 LIBFT_LIB = libft.a
 
 #text color
